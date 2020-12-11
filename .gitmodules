@@ -1,0 +1,3 @@
+[submodule "GoTest"]
+	path = GoTest
+	url = git@github.com:prc123/GoTest.git
